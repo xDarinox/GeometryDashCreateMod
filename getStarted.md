@@ -16,7 +16,7 @@
 Чтобы использовать Geode SDK и, в свою очередь, создавать моды Geometry Dash, вам понадобится либо:
 - [Visual Studio 2022](https://visualstudio.microsoft.com/ru/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false) для Windows
 - [Clang](https://docs.geode-sdk.org/getting-started/cpp-stuff/#macos) для MacOS
-- [Секретная третья вещь](https://github.com/xDarinox/GeometryDashCreateMod/edit/main/getStarted.md#linux) для Linux
+- [Секретная третья вещь](https://github.com/xDarinox/GeometryDashCreateMod/blob/main/getStarted.md#linux) для Linux
 
 ## Требования для C++
 ### Windows
@@ -51,3 +51,4 @@ pacman -S clang lld
 ```cmd
 geode sdk install-linux
 ```
+[Следующий шаг ->](https://github.com/xDarinox/GeometryDashCreateMod/blob/main/docs/start/geodeCLI.md)
